@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "FirstTierStats": {
+    "TotalSend": "5",
+    "TotalRead": "845",
+    "TotalContacts":  "149"
+  }
+}
